@@ -1,0 +1,50 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+    margin: 0 auto;
+    background-color: #BC8F8F;
+    color: #FFF0F5;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    color: #FFF0F5;
+}
+ul {
+    font-size: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+li {
+    display: inline;
+}
+p {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 60px;
+    text-align: left;
+}
+h3 {
+    margin: 75px;
+    padding: 50px;
+    color: #FFF0F5; 
+}
+#annePicture {
+    transform: rotate(90deg);
+}
+
+#lizziePicture {
+  transform: rotate(180deg);
+}
+
+
+img {
+    display: inline;
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    padding: 200px 100px 200px 50x;
+    text-align: center;
+  }
